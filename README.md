@@ -1,2 +1,3 @@
 # hello-world
-projekt testowy
+# siema ziomki i ziomale 
+# alt tu fajnie
